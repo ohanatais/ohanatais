@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi, I'm Ohana 👋
 
-<!--
-**ohanatais/ohanatais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Product Manager with a background in AI, building in public and documenting everything.
 
-Here are some ideas to get you started:
+I believe most people who want to build digital products fail not because they can't code —
+but because they skip the thinking that should come before the first line of code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+So I'm building an open-source ecosystem to fix that.
+
+---
+
+**What I'm building here:**
+
+| Repo | What it is |
+|---|---|
+| [build-from-zero](https://github.com/ohanatais/build-from-zero) | End-to-end guide: from raw idea to shipped product |
+| [product-thinking](https://github.com/ohanatais/product-thinking) | Market research, validation, personas, PRD |
+| [brand-and-copy](https://github.com/ohanatais/brand-and-copy) | Brand identity, tone of voice, product copy |
+| [build-with-claude](https://github.com/ohanatais/build-with-claude) | Claude Code for non-technical builders — every decision explained |
+| [go-to-market](https://github.com/ohanatais/go-to-market) | Launch strategy, channels, first users |
+| [pm-skills](https://github.com/ohanatais/pm-skills) | Claude Code skills for each stage · PT-BR |
+
+---
+
+**Who this is for:**
+Aspiring founders, non-technical builders, and PMs who want to build their own thing —
+and want to understand every decision along the way, not just ship fast and hope for the best.
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ohanatais-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ohanatais)
