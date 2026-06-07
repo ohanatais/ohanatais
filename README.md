@@ -27,4 +27,4 @@ and want to understand every decision along the way, not just ship fast and hope
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ohana-taís-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ohana-taís)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ohanatais-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ohana-taís)
