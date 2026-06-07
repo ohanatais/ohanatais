@@ -1,11 +1,10 @@
-### Hi, I'm Ohana 👋
+### Hi there, I'm Ohana ✨👋
 
 Senior Product Manager with a background in AI, building in public and documenting everything.
 
-I believe most people who want to build digital products fail not because they can't code —
-but because they skip the thinking that should come before the first line of code.
+I believe most people who want to build digital products fail because they skip the thinking (all the product, design and marketing "stuffs") that should come before the first line of code.
 
-So I'm building an open-source ecosystem to fix that.
+So I'm building an open-source ecosystem to ✨ help those who want to build your ideas from the zero ✨
 
 ---
 
