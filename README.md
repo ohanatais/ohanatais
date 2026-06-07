@@ -1,6 +1,6 @@
 ### Hi there, I'm Ohana ✨👋
 
-Senior Product Manager with a background in AI, building in public and documenting everything.
+Senior Product Manager, AI enthusiast and problem-solver at heart building in public and documenting everything.
 
 I believe most people who want to build digital products fail because they skip the thinking (all the product, design and marketing "stuffs") that should come before the first line of code.
 
