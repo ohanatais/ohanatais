@@ -17,7 +17,7 @@ So I'm building an open-source ecosystem to ✨ help those who want to build you
 | [brand-and-copy](https://github.com/ohanatais/brand-and-copy) | Brand identity, tone of voice, product copy |
 | [build-with-claude](https://github.com/ohanatais/build-with-claude) | Claude Code for non-technical builders — every decision explained |
 | [go-to-market](https://github.com/ohanatais/go-to-market) | Launch strategy, channels, first users |
-| [pm-skills](https://github.com/ohanatais/pm-skills) | Claude Code skills for each stage · PT-BR |
+| [pm-skills](https://github.com/ohanatais/pm-skills) | Claude Code skills for product-management day-to-day · PT-BR |
 
 ---
 
