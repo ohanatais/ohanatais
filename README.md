@@ -13,7 +13,7 @@ So I'm building an open-source ecosystem to ✨ help those who want to build you
 | Repo | What it is |
 |---|---|
 | [build-from-zero](https://github.com/ohanatais/build-from-zero) | End-to-end guide: from raw idea to shipped product |
-| [product-thinking](https://github.com/ohanatais/product-thinking) | Market research, validation, personas, PRD |
+| [product-discovery](https://github.com/ohanatais/product-thinking) | Market research, validation, personas, PRD |
 | [brand-and-copy](https://github.com/ohanatais/brand-and-copy) | Brand identity, tone of voice, product copy |
 | [build-with-claude](https://github.com/ohanatais/build-with-claude) | Claude Code for non-technical builders — every decision explained |
 | [go-to-market](https://github.com/ohanatais/go-to-market) | Launch strategy, channels, first users |
